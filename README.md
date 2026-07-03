@@ -1,9 +1,8 @@
-# Durable Remission in Primary Aldosteronism as a Saddle-Node Bifurcation
+# A Bistable Model of Primary Aldosteronism: Durable Remission as a Saddle-Node Bifurcation
 
 MATLAB code accompanying the paper:
 
-> L. H. Carter, \\\*A Bistable Model of Primary Aldosteronism: Durable Remission
-> as a Saddle-Node Bifurcation\\\* (preprint).
+> L. H. Carter, \\\*A Bistable Model of Primary Aldosteronism: Durable Remission as a Saddle-Node Bifurcation\\\* (preprint).
 
 A reduced-order dynamical model of the renin–aldosterone system augmented by a
 slow autonomous secretory-capacity state (the "salt bridge"). The model recasts
