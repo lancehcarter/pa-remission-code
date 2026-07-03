@@ -119,5 +119,5 @@ If you use this code, please cite the paper and the archived release:
 ```
 L. H. Carter, "A Bistable Model of Primary Aldosteronism: Durable Remission
 as a Saddle-Node Bifurcation," preprint (2026).
-An archived release with DOI will be added when available.```
+Code archive: https://doi.org/10.5281/zenodo.21149177
 
