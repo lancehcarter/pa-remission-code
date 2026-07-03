@@ -114,10 +114,11 @@ Released under the MIT License; see `LICENSE`.
 
 ## Citation
 
-If you use this code, please cite the paper and the archived release:
+If you use this code, please cite the associated manuscript and archived code release:
 
-```
 L. H. Carter, "A Bistable Model of Primary Aldosteronism: Durable Remission
-as a Saddle-Node Bifurcation," preprint (2026).
-Code archive: https://doi.org/10.5281/zenodo.21149177
+as a Saddle-Node Bifurcation," Zenodo preprint, 2026.
+https://doi.org/10.5281/zenodo.21170038
 
+Code archive:
+https://doi.org/10.5281/zenodo.21149177
