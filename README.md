@@ -8,7 +8,7 @@ A reduced-order dynamical model of the renin–aldosterone system augmented by a
 slow autonomous secretory-capacity state (the "salt bridge"). The model recasts
 durable off-drug remission in primary aldosteronism as a basin transition in a
 bistable system, with the remitter/non-remitter boundary a saddle-node
-bifurcation in the per-patient irreversible-capacity parameter `z\\\_fixed`.
+bifurcation in the per-patient irreversible-capacity parameter `z_fixed`.
 
 \---
 
