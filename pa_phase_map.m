@@ -37,7 +37,7 @@ function pa_phase_map()
     subplot(2,2,1);
     draw_map(durations, zfix_vals, R_main);
     title('Remission map  (sodium=0, u_{max}=0.95)');
-    xlabel('treatment duration (days)'); ylabel('z_{fixed} (irreversible capacity)');
+    xlabel('treatment duration (days)'); ylabel('z_{fixed} (suppression-resistant capacity)');
 
     subplot(2,2,2);
     % overlay sodium boundaries

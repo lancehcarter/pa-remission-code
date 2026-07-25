@@ -76,7 +76,7 @@ function pa_turnover_compare()
     plot(zgrid, aT, 'LineWidth', 2.0);
     if ~isnan(thrB), xline(thrB,'--','Color',[0 0.45 0.74]); end
     if ~isnan(thrT), xline(thrT,'--','Color',[0.85 0.33 0.10]); end
-    xlabel('irreversible / resistant capacity  (z_{fixed} or z_R)');
+    xlabel('suppression-resistant capacity  (z_{fixed} or z_R)');
     ylabel('post-withdrawal aldosterone  a_{final}');
     legend({'bistable (salt bridge)','two-compartment turnover'},'Location','southeast');
     title('Post-withdrawal aldosterone vs patient-intrinsic resistant capacity');

@@ -1,0 +1,13 @@
+Statistic,Estimate,Lower,Upper,Unit,Denominator,IntervalType
+One equilibrium at reference point,0.2197265625,0.115643928817657,0.417095179269141,percent,4096,Wilson 95% confidence interval
+Three equilibria at reference point,99.7802734375,99.5829048207309,99.8843560711823,percent,4096,Wilson 95% confidence interval
+Any physical bistable z_fixed interval,100,99.9063022592635,100,percent,4096,Wilson 95% confidence interval
+Sodium comparison evaluable,100,99.9063022592635,100,percent,4096,Wilson 95% confidence interval
+Sodium lowers upper fold among evaluable samples,100,99.9063022592635,100,percent,4096,Wilson 95% confidence interval
+Unexpected equilibrium count,0,0,0.0936977407365184,percent,4096,Wilson 95% confidence interval
+Unexpected full-Jacobian stability pattern,0,0,0.0936977407365184,percent,4096,Wilson 95% confidence interval
+Oscillatory instability detected,0,0,0.0936977407365184,percent,4096,Wilson 95% confidence interval
+Unexpected fold geometry,0,0,0.0936977407365184,percent,4096,Wilson 95% confidence interval
+Upper fold at sodium 0,0.361626431467108,0.202350208762015,0.59452650325256,z_fixed,4096,median and empirical 2.5th-97.5th percentiles
+Upper fold at sodium 0.2,0.205870983417887,0.0796669650917925,0.385114257797776,z_fixed,4096,median and empirical 2.5th-97.5th percentiles
+Sodium-induced upper-fold change,-0.15462246361947,-0.2303022537563,-0.102394393917628,z_fixed,4096,median and empirical 2.5th-97.5th percentiles
