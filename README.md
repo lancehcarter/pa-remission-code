@@ -1,8 +1,8 @@
-# A Bistable Model of Primary Aldosteronism: Durable Remission as a Saddle-Node Bifurcation
+# A Bistable Model for Durable Remission in Primary Aldosteronism
 
 MATLAB code and generated outputs accompanying:
 
-> L. H. Carter, "A Bistable Model of Primary Aldosteronism: Durable Remission as a Saddle-Node Bifurcation" (preprint).
+> L. H. Carter, "A Bistable Model for Durable Remission in Primary Aldosteronism" (preprint).
 
 The model is a reduced-order dynamical system for the renin-aldosterone axis,
 augmented by a slow, salt-supported autonomous secretory-capacity state. It
@@ -180,8 +180,8 @@ Released under the MIT License; see `LICENSE`.
 If you use this code, please cite the associated manuscript and archived code
 release:
 
-L. H. Carter, "A Bistable Model of Primary Aldosteronism: Durable Remission as
-a Saddle-Node Bifurcation," Zenodo preprint, 2026.
+L. H. Carter, "A Bistable Model for Durable Remission in Primary
+Aldosteronism," Zenodo preprint, 2026.
 
 Manuscript: https://doi.org/10.5281/zenodo.21170037
 
